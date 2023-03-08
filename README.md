@@ -1,0 +1,2 @@
+# smoby
+Schèma pour Smoby
