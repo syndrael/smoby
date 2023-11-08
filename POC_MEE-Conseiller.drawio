@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T13:40:47.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w5ZyHOKD1Brx1zcRvSvD" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T13:43:51.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5t6Mwz8tFr3_RVq564ip" version="21.0.6" type="github">
   <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
     <mxGraphModel dx="1843" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="BgNtMRz4Lzl-_mLBwiGy-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="1550" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="BgNtMRz4Lzl-_mLBwiGy-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="288" width="1540" height="322" as="geometry" />
         </mxCell>
@@ -62,10 +65,10 @@
           <mxGeometry x="167" y="669" width="20" height="184" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-20" value="Lister par requête par Evt" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="663.5" y="640.5" width="20" height="241" as="geometry" />
+          <mxGeometry x="686.25" y="606" width="20" height="241" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-21" value="Rechercher sur critère" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="983" y="683" width="20" height="156" as="geometry" />
+          <mxGeometry x="957.5" y="657.5" width="20" height="207" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-22" value="Gérer le statut (actif, clos etc.)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="289" y="360.89" width="20" height="335" as="geometry" />
@@ -80,10 +83,10 @@
           <mxGeometry x="255" y="635" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-26" value="Enregistrer le chgt de statut" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="712.5" y="567.5" width="20" height="245" as="geometry" />
+          <mxGeometry x="730" y="543.75" width="20" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-27" value="Event 9" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="635" width="20" height="110" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-27" value="Ajouter un non-inscrit" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="672" y="680" width="20" height="197.5" as="geometry" />
         </mxCell>
         <mxCell id="BgNtMRz4Lzl-_mLBwiGy-1" value="Switch d&#39;un à un autre" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="260" y="311.89" width="20" height="335" as="geometry" />
@@ -103,11 +106,8 @@
         <mxCell id="BgNtMRz4Lzl-_mLBwiGy-6" value="Fournir les indicateurs de présence" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="309" y="404" width="20" height="335" as="geometry" />
         </mxCell>
-        <mxCell id="BgNtMRz4Lzl-_mLBwiGy-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135.5" y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BgNtMRz4Lzl-_mLBwiGy-11" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="970" width="60" height="30" as="geometry" />
+        <mxCell id="BgNtMRz4Lzl-_mLBwiGy-11" value="Backoffice MEE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgNtMRz4Lzl-_mLBwiGy-12" value="Mobile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="288" width="60" height="30" as="geometry" />
